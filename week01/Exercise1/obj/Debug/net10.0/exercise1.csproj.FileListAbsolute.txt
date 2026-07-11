@@ -1,0 +1,5 @@
+C:\Users\USER\OneDrive\Documents\cse210\cse210-hw\week01\Exercise1\obj\Debug\net10.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\cse210\cse210-hw\week01\Exercise1\obj\Debug\net10.0\exercise1.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\cse210\cse210-hw\week01\Exercise1\obj\Debug\net10.0\exercise1.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\cse210\cse210-hw\week01\Exercise1\obj\Debug\net10.0\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\cse210\cse210-hw\week01\Exercise1\obj\Debug\net10.0\exercise1.sourcelink.json
