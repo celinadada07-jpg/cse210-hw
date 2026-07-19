@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\OneDrive\\Documents\\cse210\\cse210-hw\\week01\\Exercise1\\exercise1.csproj": {}
+    "c:\\Users\\USER\\OneDrive\\Documents\\cse210\\cse210-hw\\week01\\Exercise1\\exercise1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\OneDrive\\Documents\\cse210\\cse210-hw\\week01\\Exercise1\\exercise1.csproj": {
+    "c:\\Users\\USER\\OneDrive\\Documents\\cse210\\cse210-hw\\week01\\Exercise1\\exercise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Documents\\cse210\\cse210-hw\\week01\\Exercise1\\exercise1.csproj",
+        "projectUniqueName": "c:\\Users\\USER\\OneDrive\\Documents\\cse210\\cse210-hw\\week01\\Exercise1\\exercise1.csproj",
         "projectName": "exercise1",
-        "projectPath": "C:\\Users\\USER\\OneDrive\\Documents\\cse210\\cse210-hw\\week01\\Exercise1\\exercise1.csproj",
+        "projectPath": "c:\\Users\\USER\\OneDrive\\Documents\\cse210\\cse210-hw\\week01\\Exercise1\\exercise1.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive\\Documents\\cse210\\cse210-hw\\week01\\Exercise1\\obj\\",
+        "outputPath": "c:\\Users\\USER\\OneDrive\\Documents\\cse210\\cse210-hw\\week01\\Exercise1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
